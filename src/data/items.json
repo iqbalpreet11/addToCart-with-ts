@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Book",
+        "price":10.99,
+        "imgUrl":"/img/book.jpg"
+    },
+    {
+        "id":2,
+        "name":"Smart Watch",
+        "price":450.99,
+        "imgUrl":"/img/watch.jpg"
+    },
+    {
+        "id":3,
+        "name":"Shoes",
+        "price":120.99,
+        "imgUrl":"/img/shoes.jpg"
+    },
+
+    {
+        "id":4,
+        "name":"Cream",
+        "price":19.99,
+        "imgUrl":"/img/cream.jpg"
+    },   {
+        "id":5,
+        "name":"Mouse",
+        "price":14.99,
+        "imgUrl":"/img/mouse.jpg"
+    }
+]
